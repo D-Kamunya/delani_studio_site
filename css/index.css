@@ -15,20 +15,21 @@ body {
   margin: auto;
 
 }
-.logo,.banner-text{
+.logo,.banner-text,.mouse-click{
   position: absolute;
 }
 .logo{
   top: 35vh;
-  width: auto;
   left: 47%;
 }
 .banner-text{
   top: 55vh;
   width: 100%;
 }
-
+.mouse-click{
+  left: 50%;
+  bottom: 3vh;
+}
 #aboutus{
-  border: 1px solid black;
-  
+  margin: 1.5rem;
 }
