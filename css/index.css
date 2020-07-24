@@ -5,4 +5,14 @@ body {
   box-sizing: border-box;
 }
 
+#header{
+  min-height: 400px;
+  height: 100vh;
+  background: #161415 url(../img/backgrounds/h_img.jpg) no-repeat top center;
+  background-size: cover;
+  position: relative;
+  width: 100%;
+  display: block;
+  margin: 0px;
+}
 
