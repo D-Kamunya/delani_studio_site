@@ -19,7 +19,7 @@ body {
   background: #161415 url(../img/backgrounds/h_img.jpg) no-repeat top center;
   background-size: cover;
   width: 100%;
-  overflow: hidden;
+
 }
 .mouse-click{
   position: absolute;
