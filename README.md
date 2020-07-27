@@ -8,11 +8,11 @@ This is a landing page for a fictional website design and development studio. It
 * git clone https://d-kamunya.github.io/delani_studio_site/
 * fork github repo
 ## Technologies Used
-*HTML
-*CSS
-*JAVASCRIPT
-*BOOTSTRAP
-*JQUERY
+* HTML
+* CSS
+* JAVASCRIPT
+* BOOTSTRAP
+* JQUERY
 ## Contribution
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 ## Support and contact details
