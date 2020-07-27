@@ -67,4 +67,15 @@ body {
   background-size: cover;
   width: 100%;
 }
-
+#contactform{
+  width:70%;
+  margin:auto;
+}
+.form-control{
+  background-color: transparent;
+  border-radius: 0;
+  color: white;
+}
+.form-control::placeholder {
+	color: white;
+}
