@@ -48,3 +48,6 @@ body {
 #services h3{
   padding-top: 3rem;  
 }
+#design-text,#dev-text,#product-text{
+  display: none;
+}
