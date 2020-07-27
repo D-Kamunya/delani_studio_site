@@ -53,8 +53,11 @@ body {
 }
 .projectName1,.projectName2,.projectName3,.projectName4,.projectName5,.projectName6,.projectName7,.projectName8{
   position: absolute;
+  width: 80%;
+  height:80%;
   top:3%;
-  left:35%;
+  left:10%;
   border: 3px solid white;
-  padding:1px 6px 1rem
+  padding:0px 5px 5px;
+  display: none;
 }

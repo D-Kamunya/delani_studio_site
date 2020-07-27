@@ -12,4 +12,29 @@ $(document).ready(()=>{
     $('#product-text').toggle()
   })
 
+  $('.project1').hover(()=>{
+    $('.projectName1').toggle()
+  })
+  $('.project2').hover(()=>{
+    $('.projectName2').toggle()
+  })
+  $('.project3').hover(()=>{
+    $('.projectName3').toggle()
+  })
+  $('.project4').hover(()=>{
+    $('.projectName4').toggle()
+  })
+  $('.project5').hover(()=>{
+    $('.projectName5').toggle()
+  })
+  $('.project6').hover(()=>{
+    $('.projectName6').toggle()
+  })
+  $('.project7').hover(()=>{
+    $('.projectName7').toggle()
+  })
+  $('.project8').hover(()=>{
+    $('.projectName8').toggle()
+  })
+
 })
