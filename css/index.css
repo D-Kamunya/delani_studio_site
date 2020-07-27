@@ -40,3 +40,11 @@ body {
 #aboutus p{
   letter-spacing:1px
 }
+#services{
+  min-height: 250px;
+  background:url(../img/backgrounds/s_image.jpg) no-repeat top center;
+  background-size: 100%;
+}
+#services h3{
+  padding-top: 3rem;  
+}
