@@ -3,7 +3,7 @@
 #### This is a landing page for a fictional studio called Delani Studio  
 #### By **DENNIS KAMUNYA**
 ## Description
-This is a landing page for a fictional website design and development studio. It showcases the services offered and previous projects undertaken by the company. There is also a contact form for potential clients to send a message to the company. The purpose of this website is to showcase Jquery and Bootstrap functinality. The link to the live site is https://d-kamunya.github.io/delani_studio_site/
+This is a landing page for a fictional website design and development studio. It showcases the services offered and previous projects undertaken by the company. There is also a contact form for potential clients to send a message to the company and be receiving future email notifications. The purpose of this website is to showcase Jquery,Bootstrap and MailChimp API functinality. The link to the live site is https://d-kamunya.github.io/delani_studio_site/
 ## Setup/Installation Requirements
 * git clone https://github.com/D-Kamunya/delani_studio_site.git
 * fork github repo
@@ -13,6 +13,7 @@ This is a landing page for a fictional website design and development studio. It
 * JAVASCRIPT
 * BOOTSTRAP
 * JQUERY
+* MAILCHIMP API
 ## Contribution
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 ## Support and contact details
