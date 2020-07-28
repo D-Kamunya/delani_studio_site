@@ -1,3 +1,4 @@
+(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='NAME';ftypes[1]='text';fnames[2]='MESSAGE';ftypes[2]='text';}(jQuery));var $mcj = jQuery.noConflict(true);
 $(document).ready(()=>{
   $('#design').click(()=>{
     $('#design-img').toggle()
@@ -37,14 +38,14 @@ $(document).ready(()=>{
     $('.projectName8').toggle()
   })
 
-  $('#contactform').submit((event)=>{
+  $('#mc-embedded-subscribe-form').submit((event)=>{
     event.preventDefault()
-    let name=document.getElementById('name').value
-    let email=document.getElementById('name').value
-    let message=document.getElementById('message').value
+    let name=document.getElementById('mce-NAME').value
+    let email=document.getElementById('mce-EMAIL').value
+    let message=document.getElementById('mce-MESSAGE').value
 
     alert(`${name}, we have received your message. Thank you for reaching out to us.`)
-    document.getElementById("contactform").reset();
+    document.getElementById("mc-embedded-subscribe-form").reset();
   })
 
 })
